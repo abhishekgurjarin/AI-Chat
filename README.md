@@ -48,7 +48,7 @@ Before running this application, make sure you have:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/abhishekboadgurjar/ai-chat.git
+git clone https://github.com/abhishekgurjarin/ai-chat.git
 cd ai-chat
 ```
 
@@ -208,11 +208,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋‍♂️ Author
 
 **Abhishek Boadgurjar**
-- GitHub: [@abhishekboadgurjar](https://github.com/abhishekboadgurjar)
+- GitHub: [@abhishekgurjarin](https://github.com/abhishekgurjarin)
 
 ## 🐛 Issues
 
-If you encounter any issues or have suggestions, please [create an issue](https://github.com/abhishekboadgurjar/ai-chat/issues).
+If you encounter any issues or have suggestions, please [create an issue](https://github.com/abhishekgurjarin/ai-chat/issues).
 
 ## ⭐ Show your support
 
